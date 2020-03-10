@@ -30,3 +30,5 @@ const evaluarOraciones = (listaDePreguntas) => {
     evaluarOracion(pregunta)
   })
 }
+
+evaluarOraciones(preguntas)
